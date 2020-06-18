@@ -1,0 +1,24 @@
+{
+    "packageDirectories": [
+        {
+             "path": "objects",
+             "default": true,
+             "package": "DEFAULT-PACKAGE-1",
+             "versionName": "Winter ‘20",
+             "versionDescription": "Created automatically 1st",
+             "versionNumber": "4.7.0.NEXT",
+             "definitionFile": "config/scratch-org-def.json"
+        },
+                {
+             "path": "layouts",
+             "default": true,
+             "package": "DEFAULT-PACKAGE-2",
+             "versionName": "Winter ‘20",
+             "versionDescription": "Created automatically 2nd",
+             "versionNumber": "4.7.1.NEXT",
+             "definitionFile": "config/scratch-org-def.json"
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "48.0"
+}
